@@ -78,7 +78,7 @@ npm start
 
 ---
 
-## 🔐 Credenciales de Acceso (Demo)
+### 🔐 Credenciales de Acceso (Demo)
 
 El sistema viene con datos iniciales para pruebas (ver `DataInitializer.java`):
 
